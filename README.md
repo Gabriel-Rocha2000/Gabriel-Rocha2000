@@ -12,7 +12,7 @@ Estou aberto a oportunidades como desenvolvedor front-end júnior ou estágio na
 
 - HTML5  
 - CSS3  
-- JavaScript (ES6+)  
+- JavaScript  
 - Git e GitHub  
 - Sistemas de informação  
 
