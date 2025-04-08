@@ -20,14 +20,13 @@ Estou aberto a oportunidades como desenvolvedor front-end júnior ou estágio na
 
 ## 🌱 Em desenvolvimento
 
-Atualmente, estou trabalhando em projetos pessoais para aprimorar minhas habilidades técnicas e fortalecer meu portfólio. Em breve, novos repositórios por aqui!
-
+Atualmente, estou em formação pela escola DNC no curso de tecnologia em Desenvolvimento Front-End
 ---
 
 ## 📫 Como me encontrar
 
 - [LinkedIn]( https://www.linkedin.com/in/gabriel-g-rocha)  
-- E-mail: Gabriel_rocha2000@hotmail.com
+-  Gabriel_rocha2000@hotmail.com
 
 ---
 
